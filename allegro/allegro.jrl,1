@@ -1,0 +1,739 @@
+\t (00:00:07) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Jul 10 22:37:41 2019
+\t (00:00:07)         Host=USER-PC User=user Pid=1056 CPUs=4
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:12) fillin yes 
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\d (00:00:12) Design opened: C:/Users/user/Desktop/workspace/ex2_rlc/allegro/ex2_rlc.brd
+\i (00:00:12) trapsize 449
+\i (00:00:12) trapsize 466
+\i (00:00:12) trapsize 449
+\i (00:00:12) trapsize 476
+\i (00:00:12) trapsize 1283
+\i (00:00:13) generaledit 
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -9.157 37.015
+\i (00:00:31) trapsize 953
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out -8.394 36.443
+\i (00:00:31) trapsize 1795
+\i (00:00:32) prepopup 107.590 75.641
+\i (00:00:48) chg origin 
+\t (00:00:48) Pick new location for drawing origin.
+\i (00:00:52) chg origin 
+\t (00:00:52) Pick new location for drawing origin.
+\i (00:01:18) chg origin 
+\t (00:01:18) Pick new location for drawing origin.
+\i (00:02:47) xsection 
+\i (00:02:48) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (00:02:52) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:02:52) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:02:57) cmgr 
+\i (00:02:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:02:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:58) setwindow cmgr
+\i (00:02:58) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "343:CSet assignment matrix" "342:CSet assignment matrix" )
+\i (00:02:58) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" ) 0
+\i (00:02:58) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:02:58) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:02:58) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:02:58) setwindow pcb
+\i (00:02:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:02:58) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
+\i (00:02:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged "Same Net Spacing"
+\i (00:02:58) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged "Same Net Spacing Constraint Set" +
+\i (00:02:58) QtSignal "All Layers"
+\i (00:02:58) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged
+\i (00:02:58) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged Net "All Layers"
+\i (00:02:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:02:58) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:02:58) QtSignal "All Layers"
+\i (00:02:58) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:58) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:02:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:02:58) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:02:58) QtSignal "All Layers"
+\i (00:02:58) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:02:58) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:02:58) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:02ainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set"
+\i (00:03:49) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set"
+\i (00:03:52) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:03:52) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:03:55) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region
+\i (00:03:55) QtSignal m_domainSelector WS_Physical itemClicked Region
+\i (00:03:55) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:03:55) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:20:14) xdehilite 
+\i (00:20:14) xrefdes L1 
+\i (00:20:14) xNet Kkk 
+\i (00:20:14) xrefdes R1 
+\i (00:20:14) xrefdes J1 
+\i (00:20:14) xNet Gnd 
+\i (00:20:14) xNet Vcc 
+\i (00:20:14) xrefdes C1 
+\i (00:20:14) xrefdes R2 
+\i (00:20:14) xname_flush 
+\i (00:20:14) done 
+\i (00:20:14) generaledit 
+\i (00:20:18) xrefdes J1 
+\i (00:20:18) xname_flush 
+\i (00:20:18) trapsize 99
+\i (00:20:26) xrefdes L1 
+\i (00:20:26) xNet Kkk 
+\i (00:20:26) xrefdes R1 
+\i (00:20:26) xrefdes J1 
+\i (00:20:26) xNet Gnd 
+\i (00:20:26) xNet Vcc 
+\i (00:20:26) xrefdes C1 
+\i (00:20:26) xrefdes R2 
+\i (00:20:26) xname_flush 
+\i (00:20:26) setwindow cmgr
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm scope Design "ex2_rlc"
+\i (00:20:26) cm expand ( row ( "Net Class" "BASENETS" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "BASENETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "BASENETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "BASENETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) cm expand ( row ( "Net Class" "POWERNETS" ) )
+\i (00:20:26) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:20:26) setwindow pcb
+\i (00:20:26) trapsize 427
+\i (00:34:15) exit 
+\e (00:34:15) Do you want to save the changes you made to ex2_rlc.brd?
+\i (00:34:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:34:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:34:47) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:34:47) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:34:51) fillin no 
+\i (00:34:51) setwindow cmgr
+\i (00:34:51) cm exit
+\i (00:34:51) setwindow pcb
+\i (00:34:51) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:34:51) QtSignal "All Layers"
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "CSet assignment matrix"
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "All Layers"
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Region "All Layers"
+\i (00:34:51) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:34:51) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
+\i (00:34:51) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:34:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:34:51) QtSignal Routing Wiring
+\i (00:34:51) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged
+\i (00:34:51) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+   (00:34:51) Loading consmgr.cxt 
+   (00:34:51) Loading acns_formula.cxt 
+\t (00:34:51)     Journal end - Wed Jul 10 22:57:22 2019
+
+\i (00:05:22) refdes R1 
+\i (00:05:22) refdes J1 
+\i (00:05:22) Net Gnd 
+\t (00:05:22) Nets are not selectable at this time.
+\i (00:05:22) Net Vcc 
+\t (00:05:22) Nets are not selectable at this time.
+\i (00:05:22) refdes C1 
+\i (00:05:22) refdes R2 
+\i (00:05:22) xname_flush 
+\i (00:06:16) setwindow form.plc_manual
+\i (00:06:16) FORM plc_manual categories Components by refdes 
+\i (00:06:18) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:06:18) FORM plc_manual tree  'Components by refdes' 
+\i (00:06:22) FORM plc_manual cancel  
+\i (00:06:22) setwindow pcb
+\i (00:06:22) generaledit 
+\i (00:06:36) shape add rect 
+\i (00:06:45) prepopup 116.205 110.103
+\i (00:06:46) done 
+\i (00:06:46) generaledit 
+\i (00:06:50) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:06:51) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:07:25) pick grid 3.128 49.077
+\t (00:07:25) last pick:  3.175 48.895
+\i (00:07:28) pick grid 4.923 46.205
+\t (00:07:28) last pick:  5.080 46.355
+\i (00:07:30) pick grid 7.077 49.436
+\t (00:07:30) last pick:  6.985 49.530
+\i (00:07:36) prmed 
+\i (00:07:38) setwindow form.prmedit
+\i (00:07:38) FORM prmedit cancel  
+\i (00:07:38) setwindow pcb
+\i (00:07:38) generaledit 
+\i (00:07:41) cmgr 
+\i (00:07:41) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:07:41) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:07:41) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:07:41) setwindow cmgr
+\i (00:07:41) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:07:41) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:41) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "343:CSet assignment matrix" "342:CSet assignment matrix" )
+\i (00:07:42) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" ) 0
+\i (00:07:42) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:42) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm expand ( row ( Design "ex2_rlc" ) )
+\i (00:07:42) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:07:42) setwindow pcb
+\i (00:07:42) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:07:42) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
+\i (00:07:42) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged "Same Net Spacing"
+\i (00:07:42) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged "Same Net Spacing Constraint Set" +
+\i (00:07:42) QtSignal "All Layers"
+\i (00:07:42) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged Net "All Layers"
+\i (00:07:42) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:07:42) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:07:42) QtSignal "All Layers"
+\i (00:07:42) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:07:42) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:07:42) QtSignal "All Layers"
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "CSet assignment matrix"
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "All Layers"
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Region "All Layers"
+\i (00:07:42) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:07:42) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+\i (00:07:42) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
+\i (00:07:42) generaledit 
+\i (00:07:43) setwindow cmgr
+\i (00:07:43) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:07:43) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:43) cm exit
+\i (00:07:43) setwindow pcb
+\i (00:07:43) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:07:43) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:43) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged
+\i (00:07:43) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+\i (00:08:06) netin 
+\i (00:08:13) setwindow form.niparams
+\i (00:08:13) FORM niparams close  
+\i (00:08:13) setwindow pcb
+\i (00:08:13) generaledit 
+\i (00:08:21) layer priority 
+\i (00:08:23) setwindow form.layerdlg
+\i (00:08:23) FORM layerdlg cancel  
+\i (00:08:32) setwindow pcb
+\i (00:08:32) board outline 
+   (00:08:32) Loading consmgr.cxt 
+   (00:08:32) Loading acns_formula.cxt 
+   (00:08:32) Loading floor.cxt 
+   (00:08:32) Loading fputil.cxt 
+\i (00:08:47) pick grid 217.795 72.769
+\t (00:08:47) last pick:  217.805 73.025
+\i (00:08:48) setwindow form.fpbdoutline
+\i (00:08:48) FORM fpbdoutline cancel  
+\i (00:08:49) setwindow pcb
+\i (00:08:49) generaledit 
+\i (00:08:55) new 
+\e (00:08:55) Do you want to save the changes you made to ex2_rlc.brd?
+\i (00:08:57) fillin yes 
+\e (00:08:57) File "ex2_rlc.brd" is being edited by user "user" on date "Wed Jul 10 22:22:36 2019" on system "USER-PC".  Save design to another name or contact user to remove their lock.
+\i (00:08:58) fillin confirm
+\i (00:08:58) generaledit 
+\i (00:09:01) new 
+\e (00:09:01) Do you want to save the changes you made to ex2_rlc.brd?
+\i (00:09:02) fillin no 
+\i (00:09:14) newdrawfillin "menu_cancel"
+\i (00:09:14) generaledit 
+\i (00:09:14) pick grid 99.333 79.949
+\t (00:09:14) last pick:  99.060 80.010
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 25.026 18.923
+\i (00:09:16) trapsize 897
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 24.128 18.923
+\i (00:09:16) trapsize 449
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 24.129 18.924
+\i (00:09:16) trapsize 224
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 24.129 18.924
+\i (00:09:17) trapsize 449
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 23.949 18.925
+\i (00:09:17) trapsize 897
+\i (00:09:22) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:09:24) QtSignal CVPLayerGrid CVPAllAll_Layers clicked false
+\i (00:09:25) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:09:25) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:09:27) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:09:33) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:09:36) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:09:37) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:09:38) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:09:40) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:09:40) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:09:41) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:09:42) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:09:45) QtSignal CVPLayerGrid CVPConductorsEtch clicked false
+\i (00:09:46) QtSignal CVPLayerGrid CVPConductorsEtch clicked true
+\i (00:09:48) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:09:48) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:09:49) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked true
+\i (00:09:50) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:09:51) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:09:52) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked true
+\i (00:10:00) pick grid 118.899 44.950
+\t (00:10:00) last pick:  118.745 45.085
+\i (00:10:02) zoom in 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom in 33.462 46.027
+\i (00:10:02) trapsize 449
+\i (00:10:02) zoom in 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom in 33.283 46.117
+\i (00:10:02) trapsize 224
+\i (00:10:02) zoom in 1 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) zoom in 33.283 46.117
+\i (00:10:02) trapsize 112
+\i (00:10:04) zoom out 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 35.527 44.412
+\i (00:10:04) trapsize 224
+\i (00:10:04) zoom out 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 35.527 44.412
+\i (00:10:04) trapsize 449
+\i (00:10:04) zoom out 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 35.527 44.232
+\i (00:10:04) trapsize 897
+\i (00:10:05) zoom in 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom in 17.578 10.488
+\i (00:10:05) trapsize 449
+\i (00:10:09) zoom out 1 
+\i (00:10:09) setwindow pcb
+\i (00:10:09) zoom out 37.951 15.065
+\i (00:10:09) trapsize 897
+\i (00:10:11) roam y 96 
+\i (00:10:11) roam y 96
+\i (00:10:11) roam y 96 
+\i (00:10:11) roam y 96
+\i (00:10:11) roam y 96 
+\i (00:10:11) roam y 32
+\i (00:10:12) roam y -96 
+\i (00:10:12) roam y -96
+\i (00:10:12) pick grid 49.797 -5.845
+\t (00:10:12) last pick:  49.530 -5.715
+\i (00:10:13) prepopup 49.797 -5.845
+\i (00:10:15) roam y 96 
+\i (00:10:15) roam y 96
+\i (00:10:16) roam y 96 
+\i (00:10:16) roam y -96 
+\i (00:10:16) roam y -96
+\i (00:10:16) roam y -96 
+\i (00:10:16) roam y -96
+\i (00:10:16) roam x -96 
+\i (00:10:16) roam x -96 
+\i (00:10:17) roam x -96 
+\i (00:10:17) roam x 96 
+\i (00:10:17) roam x 96
+\i (00:10:17) roam x 96 
+\i (00:10:17) roam x 96
+\i (00:10:17) roam x 96 
+\i (00:10:17) roam x 96
+\i (00:10:19) roam y 96 
+\i (00:10:19) roam y 96
+\i (00:10:19) roam y 96 
+\i (00:10:19) roam y 96
+\i (00:10:19) roam x -96 
+\i (00:10:19) roam x -96
+\i (00:10:20) roam x -96 
+\i (00:10:20) roam x -96
+\i (00:10:20) roam y -96 
+\i (00:10:20) roam y -96
+\i (00:10:20) roam x -96 
+\i (00:10:20) roam x -96
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 31.848 13.002
+\i (00:10:21) trapsize 449
+\i (00:10:22) zoom in 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom in 31.848 13.002
+\i (00:10:22) trapsize 224
+\i (00:10:22) zoom in 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom in 31.848 13.003
+\i (00:10:22) trapsize 112
+\i (00:10:22) zoom in 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom in 31.849 13.003
+\i (00:10:22) trapsize 56
+\i (00:10:23) roam y -96 
+\i (00:10:23) roam y -96
+\i (00:10:23) roam y -96 
+\i (00:10:23) roam y -96
+\i (00:10:23) roam y -96 
+\i (00:10:23) roam y -96
+\i (00:10:24) roam y 96 
+\i (00:10:24) roam y 96
+\i (00:10:24) roam y 96 
+\i (00:10:24) roam y 96
+\i (00:10:25) zoom out 1 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) zoom out 33.857 14.297
+\i (00:10:25) trapsize 112
+\i (00:10:25) zoom out 1 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) zoom out 33.857 14.298
+\i (00:10:25) trapsize 224
+\i (00:10:25) zoom out 1 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) zoom out 33.947 14.297
+\i (00:10:25) trapsize 449
+\i (00:10:25) zoom out 1 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) zoom out 34.036 14.208
+\i (00:10:25) trapsize 898
+\i (00:10:25) zoom out 1 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) zoom out 62.731 14.208
+\i (00:10:25) trapsize 1795
+\i (00:10:25) zoom out 1 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) zoom out 175.436 45.128
+\i (00:10:25) trapsize 1795
+\i (00:10:25) zoom out 1 
+\i (00:10:26) setwindow pcb
+\i (00:10:26) zoom out 176.154 42.615
+\i (00:10:26) trapsize 1795
+\i (00:10:26) zoom out 1 
+\i (00:10:26) setwindow pcb
+\i (00:10:26) zoom out 176.154 41.898
+\i (00:10:26) trapsize 1795
+\i (00:10:26) zoom out 1 
+\i (00:10:26) setwindow pcb
+\i (00:10:26) zoom out 176.154 41.898
+\i (00:10:26) trapsize 1795
+\i (00:10:27) roam y -96 
+\i (00:10:27) roam y -96 
+\i (00:10:27) roam x 96 
+\i (00:10:27) roam x 96 
+\i (00:10:27) roam x 96 
+\i (00:10:28) roam x -96 
+\i (00:10:28) roam x -96 
+\i (00:10:29) zoom in 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom in 26.821 7.795
+\i (00:10:29) trapsize 897
+\i (00:10:29) zoom in 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom in 26.821 7.795
+\i (00:10:29) trapsize 449
+\i (00:10:29) zoom out 1 
+\i (00:10:29) setwindow pcb
+\i (00:10:29) zoom out 26.731 7.437
+\i (00:10:29) trapsize 897
+\i (00:10:30) roam x 96 
+\i (00:10:30) roam x 96
+\i (00:10:31) roam x 96 
+\i (00:10:31) roam x 96
+\i (00:10:31) roam x -96 
+\i (00:10:31) roam x -96
+\i (00:10:31) roam x -96 
+\i (00:10:31) roam x -96
+\i (00:10:31) roam x -96 
+\i (00:10:31) roam x -96
+\i (00:10:31) roam x -96 
+\i (00:10:31) roam x -96
+\i (00:10:31) roam x -96 
+\i (00:10:31) roam x -16
+\i (00:10:36) prepopup -0.641 31.488
+\i (00:10:54) done 
+\i (00:10:54) place manual 
+\i (00:10:54) FORM plc_manual placement_list 
+\i (00:10:54) FORM plc_manual categories Components by refdes 
+\i (00:10:54) trapsize 897
+\i (00:10:56) setwindow form.plc_manual
+\i (00:10:56) FORM plc_manual advanced_settings  
+\i (00:10:57) FORM plc_manual library YES 
+\i (00:10:58) FORM plc_manual placement_list  
+\i (00:10:59) FORM plc_manual cancel  
+\i (00:10:59) setwindow pcb
+\i (00:10:59) generaledit 
+\i (00:11:04) drag_start grid -7.641 55.360
+\i (00:11:04) roam y 16
+\i (00:11:04) roam y 16
+\i (00:11:04) drag_stop 93.949 -11.769
+\i (00:11:05) drag_start grid 60.744 39.385
+\i (00:11:06) drag_stop 84.078 39.744
+\i (00:11:06) pick grid 85.513 10.488
+\t (00:11:06) last pick:  85.725 10.795
+\i (00:11:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (00:11:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (00:11:51) pick grid 23.231 60.924
+\t (00:11:51) last pick:  23.495 60.960
+\i (00:12:48) import file manager 
+\i (00:12:59) generaledit 
+\i (00:13:12) create bounding shape 
+   (00:13:12) Loading apt.cxt 
+   (00:13:12) Loading skillExt.cxt 
+\i (00:13:14) drag_start -19.128 57.154
+\i (00:13:14) drag_stop -15.538 47.641
+\t (00:13:14) No Element Found.
+\i (00:13:22) netin 
+\i (00:13:33) setwindow form.niparams
+\i (00:13:33) FORM niparams other  
+\i (00:13:36) FORM niparams cancel  
+\i (00:13:36) setwindow pcb
+\i (00:13:36) generaledit 
+\i (00:13:40) prmed 
+\i (00:13:43) setwindow form.prmedit
+\i (00:13:43) FORM prmedit cancel  
+\i (00:13:43) setwindow pcb
+\i (00:13:43) generaledit 
+\i (00:13:54) cns cmmodesv2 
+\i (00:13:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:13:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:13:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:14:02) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Electrical
+\i (00:14:02) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Electrical
+\i (00:14:03) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Physical
+\i (00:14:03) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Physical
+\i (00:14:04) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Physical
+\i (00:14:04) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Physical
+\i (00:14:05) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Spacing
+\i (00:14:05) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Spacing
+\i (00:14:07) generaledit 
+\i (00:14:15) identify nets 
+   (00:14:16) Loading cmds.cxt 
+\i (00:14:18) setwindow form.fpsxidnets
+\i (00:14:18) FORM fpsxidnets cancel  
+\i (00:14:18) setwindow pcb
+\i (00:14:18) generaledit 
+\i (00:14:23) cns_dummy_net 
+\i (00:14:24) setwindow form.cns_dummy_net
+\i (00:14:24) FORM cns_dummy_net cancel  
+\i (00:14:24) setwindow pcb
+\i (00:14:24) generaledit 
+\i (00:15:46) done 
+\i (00:15:46) place manual 
+\i (00:15:46) FORM plc_manual placement_list 
+\i (00:15:46) FORM plc_manual categories Components by refdes 
+\i (00:15:46) trapsize 897
+\i (00:15:58) setwindow form.plc_manual
+\i (00:15:58) FORM plc_manual advanced_settings  
+\i (00:15:59) FORM plc_manual library YES 
+\i (00:16:01) FORM plc_manual placement_list  
+\i (00:16:22) FORM plc_manual advanced_settings  
+\i (00:16:27) FORM plc_manual placement_list  
+\i (00:16:31) FORM plc_manual categories Mechanical symbols 
+\i (00:16:33) FORM plc_manual tree 'MULTISEL YES' CROP 'Mechanical symbols' 
+\w (00:16:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:16:33) Cannot load symbol 'CROP'
+\i (00:16:33) FORM plc_manual tree  CROP 'Mechanical symbols' 
+\i (00:16:35) FORM plc_manual tree 'MULTISEL NO' CROP 'Mechanical symbols' 
+\i (00:16:40) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:16:40) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:16:45) setwindow pcb
+\i (00:16:45) pick grid -19.487 40.821
+\t (00:16:45) last pick:  -19.685 40.640
+\i (00:16:50) setwindow form.plc_manual
+\i (00:16:50) FORM plc_manual cancel  
+\i (00:16:50) setwindow pcb
+\i (00:16:50) generaledit 
+\i (00:16:51) pick grid -21.820 16.590
+\t (00:16:51) last pick:  -21.590 16.510
+\i (00:16:55) pick grid 79.052 20.000
+\t (00:16:55) last pick:  78.740 19.685
+\i (00:16:56) zoom in 1 
+\i (00:16:56) setwindow pcb
+\i (00:16:56) zoom in 60.026 31.308
+\i (00:16:56) trapsize 449
+\i (00:16:57) zoom in 1 
+\i (00:16:57) setwindow pcb
+\i (00:16:57) zoom in 59.488 31.309
+\i (00:16:57) trapsize 224
+\i (00:16:58) zoom out 1 
+\i (00:16:58) setwindow pcb
+\i (00:16:58) zoom out 47.193 23.680
+\i (00:16:58) trapsize 449
+\i (00:17:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (00:17:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (00:17:21) color192 
+\i (00:17:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Setup 2 | Colors
+\i (00:17:22) generaledit 
+\i (00:17:58) pick grid 75.463 32.655
+\t (00:17:58) last pick:  75.565 32.385
+\i (00:17:59) zoom out 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom out 76.181 27.899
+\i (00:17:59) trapsize 897
+\i (00:17:59) zoom out 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom out 76.898 25.745
+\i (00:17:59) trapsize 1795
+\i (00:17:59) zoom out 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom out 184.769 14.974
+\i (00:17:59) trapsize 1795
+\i (00:17:59) zoom out 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom out 184.769 12.462
+\i (00:17:59) trapsize 1795
+\i (00:17:59) zoom out 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom out 78.872 -10.872
+\i (00:17:59) trapsize 1795
+\i (00:17:59) zoom out 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom out 77.436 -13.385
+\i (00:17:59) trapsize 1795
+\i (00:19:06) exit 
+\e (00:19:06) Do you want to save the changes you made to ex2_rlc.brd?
+\i (00:19:08) fillin no 
+\t (00:19:08)     Journal end - Wed Jul 10 22:56:42 2019
